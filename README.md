@@ -21,7 +21,7 @@ This project focuses on analyzing pizza sales data using **SQL** to extract mean
 - **GROUP BY & ORDER BY** – To categorize and rank sales performance.
 
 ## 📂 Project Files
-- **pizza_sales_analysis.sql** – SQL queries used for analysis.
+- **pizza_sales.sql** – SQL queries used for analysis.
 - **pizza_sales_report.md** – Summary of key findings.
 - **README.md** – Project documentation.
 
